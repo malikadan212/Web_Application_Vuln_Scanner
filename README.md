@@ -1,4 +1,4 @@
-# 🛡️ Professional Web Vulnerability Assessment Tool
+# 🛡️ WebGuard Pro - Intelligent Vulnerability Scanner
 
 A comprehensive, enterprise-grade web vulnerability scanner that performs non-intrusive security assessments with advanced reconnaissance capabilities, professional reporting, and ethical testing practices.
 
